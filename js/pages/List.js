@@ -100,25 +100,29 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        FPS Bypass is allowed up to 360 FPS.
+                        CBF is allowed, but you should write 'CBF Used'.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Cheat Indicator is required if you're using a mod menu that supports one. (Unless you're playing without Geode.)
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Clicks are required. If no clicks appear in the recording, click counter label is required.
+                        (Fake clicks or clicks mod is not allowed. Clicks should only come from your microphone.)
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        End Stats is required.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Raw footage is required. Your raw footage must be unedited.
+                        (Include clicks.)
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use secret routes or bug routes.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Physic Bypass or TPS Bypass like hacks, your records will denied and you'll banned.
+                        We'll show why your records are denied.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
